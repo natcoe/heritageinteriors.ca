@@ -1,0 +1,20 @@
+{
+  "name": "Heritage Commercial Interiors Inc.",
+  "phone": "905-315-8887",
+  "url": "https://heritageinteriors.ca/",
+  "foundingYear": "1993",
+  "email": "info@heritageinteriors.ca",
+  "address": {
+      "street": "837 Hwy 6 N",
+      "city": "Hamilton",
+      "region": "ON",
+      "postalCode": "L8P 1A1",
+      "country": "CA"
+  },
+  "addressLink": "https://www.google.com/maps/dir/?api=1&destination=837+Hwy+6+N,+Hamilton,+ON",
+  "businessHours": "Monday - Friday: 8:00 AM - 5:00 PM",
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61569838466319",
+    "instagram": "https://www.instagram.com/heritage.finishes"
+  }
+}

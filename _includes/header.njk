@@ -1,0 +1,45 @@
+<header class="site-header">
+
+  <div class="container header-row">
+
+    <a class="logo" href="/">
+      <div class="shape">
+        <div class="header-line-top"></div>
+        <img 
+          src="/images/heritage-logo-white.svg" 
+          width="220"
+          height="47"
+          class="logo-img" 
+          alt="{{ site.name}} logo" 
+        />
+        <div class="header-line-bottom"></div>
+      </div>
+    </a>
+
+
+    <div class="header-actions">
+
+      {% from "nav.njk" import renderNav %}
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        {{ renderNav(navigation, page.url) }}
+      </nav>
+
+
+      <!-- Mobile hamburger -->
+      <button 
+        class="mobile-menu-toggle"
+        aria-expanded="false"
+        aria-label="Open navigation"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+
+    </div>
+
+  </div>
+
+</header>

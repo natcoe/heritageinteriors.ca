@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Commercial Malls",
+    "slug": "commercial-malls",
+    "url": "/services/commercial-malls/",
+    "description": "We specialize in the construction and renovation of commercial malls, delivering high-quality spaces that meet the needs of both tenants and shoppers."
+  },
+  {
+    "title": "Commercial Offices",
+    "slug": "commercial-offices",
+    "url": "/services/commercial-offices/",
+    "description": "We specialize in the construction and renovation of commercial office spaces, delivering high-quality environments that enhance productivity and meet the specific needs of businesses."
+  },
+  {
+    "title": "Apartment Buildings",
+    "slug": "apartment-buildings",
+    "url": "/services/apartment-buildings/",
+    "description": "We specialize in the construction and renovation of apartment buildings, delivering high-quality residential spaces that meet the needs of both property owners and tenants."
+  }
+  
+]
