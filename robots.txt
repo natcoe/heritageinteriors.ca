@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ridgewayservices.ca/sitemap.xml
+Sitemap: https://www.heritageinteriors.ca/sitemap.xml

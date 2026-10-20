@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natcoe/ridgewayservices.ca.git"
+    "url": "git+https://github.com/natcoe/heritageinteriors.ca.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/natcoe/ridgewayservices.ca/issues"
+    "url": "https://github.com/natcoe/heritageinteriors.ca/issues"
   },
-  "homepage": "https://github.com/natcoe/ridgewayservices.ca#readme",
+  "homepage": "https://github.com/natcoe/heritageinteriors.ca#readme",
   "dependencies": {
     "@11ty/eleventy": "^3.1.6",
     "@11ty/eleventy-plugin-rss": "^3.0.0",
