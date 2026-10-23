@@ -219,7 +219,7 @@ ul.inluded-list li {
   flex-direction: column;
   justify-content: flex-end;
   padding: 24px;
-  background: linear-gradient(180deg, rgba(50, 51, 132, 0) 40%, rgba(29, 30, 89, 0.9) 100%);
+  background: linear-gradient(180deg, rgba(50, 51, 132, 0) 40%, rgba(89, 29, 29, 0.9) 100%);
 }
 
 .project-tile-overlay .view-project,

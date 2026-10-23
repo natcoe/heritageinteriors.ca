@@ -1,21 +1,39 @@
+
 [
   {
     "title": "Commercial Malls",
     "slug": "commercial-malls",
     "url": "/services/commercial-malls/",
-    "description": "We specialize in the construction and renovation of commercial malls, delivering high-quality spaces that meet the needs of both tenants and shoppers."
+    "description": "We provide professional painting and finishing services for shopping malls and retail spaces, from tenant turnovers and renovations to ongoing property maintenance."
   },
   {
     "title": "Commercial Offices",
     "slug": "commercial-offices",
     "url": "/services/commercial-offices/",
-    "description": "We specialize in the construction and renovation of commercial office spaces, delivering high-quality environments that enhance productivity and meet the specific needs of businesses."
+    "description": "We deliver professional painting and finishing services for commercial offices, creating clean, polished workspaces that reflect your business and enhance your environment."
   },
   {
     "title": "Apartment Buildings",
     "slug": "apartment-buildings",
     "url": "/services/apartment-buildings/",
-    "description": "We specialize in the construction and renovation of apartment buildings, delivering high-quality residential spaces that meet the needs of both property owners and tenants."
+    "description": "We provide reliable painting and finishing services for apartment buildings, helping property owners maintain attractive living spaces, common areas, and rental units."
+  },
+  {
+    "title": "Houses",
+    "slug": "houses",
+    "url": "/services/houses/",
+    "description": "We offer professional residential painting services, transforming interiors with quality craftsmanship, careful preparation, and beautiful, lasting finishes."
+  },
+  {
+    "title": "Exteriors",
+    "slug": "exteriors",
+    "url": "/services/exteriors/",
+    "description": "We provide exterior painting and finishing services for residential and commercial properties, enhancing curb appeal with durable, professional finishes."
+  },
+  {
+    "title": "Epoxy Flooring",
+    "slug": "epoxy-flooring",
+    "url": "/services/epoxy-flooring/",
+    "description": "We provide epoxy flooring solutions for residential and commercial spaces, creating durable, attractive, and easy-to-maintain surfaces built for everyday use."
   }
-  
 ]

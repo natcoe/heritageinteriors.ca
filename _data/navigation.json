@@ -4,20 +4,28 @@
     "url": "/services/",
     "children": [
       {
-        "title": "Design-Build",
-        "url": "/services/design-build/"
+        "title": "Commercial Malls",
+        "url": "/services/commercial-malls/"
       },
       {
-        "title": "Maintenance",
-        "url": "/services/maintenance/"
+        "title": "Commercial Offices",
+        "url": "/services/commercial-offices/"
       },
       {
-        "title": "Project Management",
-        "url": "/services/project-management/"
+        "title": "Apartment Buildings",
+        "url": "/services/apartment-buildings/"
       },
       {
-        "title": "Construction",
-        "url": "/services/construction/"
+        "title": "Houses",
+        "url": "/services/houses/"
+      },
+      {
+        "title": "Exteriors",
+        "url": "/services/exteriors/"
+      },
+      {
+        "title": "Epoxy Flooring",
+        "url": "/services/epoxy-flooring/"
       }
     ]
   },
